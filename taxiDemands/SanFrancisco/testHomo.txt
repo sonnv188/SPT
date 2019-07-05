@@ -1,0 +1,2 @@
+city = SanFrancisco, day = 1
+LR = -4.873521450192979

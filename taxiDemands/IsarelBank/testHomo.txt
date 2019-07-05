@@ -1,0 +1,2 @@
+city = IsarelBank, day = 1
+LR = 2.835694831051125

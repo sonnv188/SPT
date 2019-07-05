@@ -1,0 +1,2 @@
+city = artificialData, day = 1
+LR = 2.471596289450093

@@ -1,0 +1,4 @@
+r.id  r.timeCall  r.pickupLocationID r.deliveryLocationID  r.earlyPickupTime  r.latePickupTime  r.earlyDeliveryTime  r.lateDeliveryTime  r.maxTravelDistance  r.maxNbStops
+-1
+r.id  r.timeCall  r.pickupLocationID r.deliveryLocationID  r.earlyPickupTime  r.latePickupTime  r.earlyDeliveryTime  r.lateDeliveryTime
+-1

@@ -1,0 +1,1 @@
+T.currentTimePoint	profit	revenueParcel	revenuePeople	cost	totalTravelDistance	discount	nbParcelComplete	nbPeopleComplete	nbParcelServed	nbPeopleServed	nbParcelOnBoard	nbPeopleOnBoard	nbParcelWaitBoarding	nbPeopleWaitBoarding	nbParcelRejects	nbPeopleRejects	nbParcelRequestsProcessed	nbPeopleRequestsProcessed	#running taxis

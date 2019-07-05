@@ -1,0 +1,8 @@
+r.id  r.timeCall  r.pickupLocationID r.deliveryLocationID  r.earlyPickupTime  r.latePickupTime  r.earlyDeliveryTime  r.lateDeliveryTime  r.maxTravelDistance  r.maxNbStops
+1 32460 2648 128753 32760 32960 3300 50400 4216.557642261768 10
+2 37000 16923 8238 37000 37800 37800 50400 4470.366702638623 9
+-1
+r.id  r.timeCall  r.pickupLocationID r.deliveryLocationID  r.earlyPickupTime  r.latePickupTime  r.earlyDeliveryTime  r.lateDeliveryTime
+3 33460 8303 11195 33460 34100 34100 50400
+4 39000 11508 4245 39000 40000 40000 50400
+-1
